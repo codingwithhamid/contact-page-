@@ -19,6 +19,7 @@ position: relative;
 background: url(../puplic/images.jpeg);
 background-position:center;
 background-size: cover;
+overflow: hidden;
 }
 .content{
     max-width: 800px;
